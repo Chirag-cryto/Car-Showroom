@@ -16,7 +16,7 @@ public class Car {
     	  model = m;
     	  price = p;
     	  mileage = mil;
-    	  ownerName = "Conor";
+    	  ownerName = "Conor McGregor";
     	  totalCars++;
       }
       

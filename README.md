@@ -1,23 +1,88 @@
-Brand: Porsche
-Model: 911
-Price: 4.5E7
-Mileage: 13.6
-Owner: Conor McGregor
-Brand: Honda
-Model: Civic
-Price: 170000.0
-Mileage: 24.7
-Owner: Namith
-Brand: Suzuki
-Model: supra
-Price: 788000.0
-Mileage: 19.9
-Owner: Conor McGregor
-After Updates:
-Brand: Porsche
-Model: 911
-Price: 16000.0
-Mileage: 13.6
-Owner: Virat
-Showroom: one and only
-Total Cars: 3
+Choose your option
+1. Add the book
+2. Issue the book
+3. Return the book
+4. Check for availability
+5. Show all the books
+6. Exit
+Enter your choice 
+1
+Enter the title of book 
+fly high
+Enter the author name 
+chirag
+Enter the ISBN 
+isb2356
+Book is added:fly highbychirag ISBN:isb2356
+Choose your option
+1. Add the book
+2. Issue the book
+3. Return the book
+4. Check for availability
+5. Show all the books
+6. Exit
+Enter your choice 
+1
+Enter the title of book 
+cant hurt me
+Enter the author name 
+david goggins
+Enter the ISBN 
+isb2136
+Book is added:cant hurt mebydavid goggins ISBN:isb2136
+Choose your option
+1. Add the book
+2. Issue the book
+3. Return the book
+4. Check for availability
+5. Show all the books
+6. Exit
+Enter your choice 
+2
+Enter the ISBN to isuue 
+isb2356
+Book is issued
+Choose your option
+1. Add the book
+2. Issue the book
+3. Return the book
+4. Check for availability
+5. Show all the books
+6. Exit
+Enter your choice 
+4
+Enter ISBN to check 
+isb2356
+Issued
+Choose your option
+1. Add the book
+2. Issue the book
+3. Return the book
+4. Check for availability
+5. Show all the books
+6. Exit
+Enter your choice 
+3
+Enter ISBN to return 
+isb2356
+Book is retured
+Choose your option
+1. Add the book
+2. Issue the book
+3. Return the book
+4. Check for availability
+5. Show all the books
+6. Exit
+Enter your choice 
+5
+All books in the library
+fly highbychirag ISBN:isb2356Book Available
+cant hurt mebydavid goggins ISBN:isb2136Book Available
+Choose your option
+1. Add the book
+2. Issue the book
+3. Return the book
+4. Check for availability
+5. Show all the books
+6. Exit
+Enter your choice 
